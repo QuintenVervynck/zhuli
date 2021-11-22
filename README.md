@@ -1,6 +1,6 @@
 # Zhu Li
 _**Zhu Li, do the thing!**_ \
-As Zhu Li was once Varrick's assistant, she's now mine.
+_**As Zhu Li was once Varrick's assistant, she's now mine.**_
 
 ### Getting your own Zhu Li
 
