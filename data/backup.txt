@@ -1,0 +1,9 @@
+.bashrc
+.bash_aliases
+Desktop
+Downloads
+edu
+.gitconfig
+omnia
+packages
+zhuli

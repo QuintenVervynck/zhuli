@@ -1,0 +1,18 @@
+MAANDAG
+  10:00-13:00: ModSim in Sterre S12 0.1
+  14:30-17:30: AI in Sterre S8 0.1
+DINSDAG  
+  08:30-10:00: AD3 in Sterre S9 3.1 Konrad Zuse
+  10:00-11:30: AD3 in Sterre S9 Leslokaal 1.1
+  11:30-13:00: ModSim in Sterre S9 3.1 Konrad Zuse
+WOENSDAG
+  08:30-11:30: AD3 in Sterre S9 Leslokaal 1.1
+  11:30-13:00: AI in Sterre S9 1.1 Alan Turing
+  14:30-17:30: ParaComp in Ardoyen iGent 126 Auditorium 1
+DONDERDAG
+  08:30-11:30: Bessys in Ardoyen iGent 126 Auditorium 1
+  13:00-14:30: AI in Sterre S9 3.1 Konrad Zuse
+  14:30-16:00: ModSim in Sterre S9 3.1 Konrad Zuse
+VRIJDAG
+  08:30-11:30: ParaComp in Ardoyen iGent 126 Auditorium 1
+  13:00-16:00: Bessys in Ardoyen iGent 126 Auditorium 
