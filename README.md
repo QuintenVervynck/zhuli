@@ -2,6 +2,8 @@
 _**Zhu Li, do the thing!**_ \
 _**As Zhu Li was once Varrick's assistant, she's now mine.**_
 
+Whatch Zhu Li do the thing: https://youtu.be/mofRHlO1E_A
+
 ### Getting your own Zhu Li
 
 ```
