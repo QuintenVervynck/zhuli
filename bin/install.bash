@@ -2,6 +2,7 @@
 
 if [[ $# -eq 0 ]]; then
   echo "Don't know what you want me to install / setup ..."
+  exit 0
 fi
 
 case $1 in
@@ -22,6 +23,7 @@ case $1 in
 
     echo "MONDAY" >> data/les.txt
     echo "10:00-13:00 Maths" >> data/les.txt
+    # TODO make user set /home/...
     ;;
   ssh)
     echo "leave everything empty and just press enter"
