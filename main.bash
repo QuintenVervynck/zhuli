@@ -16,7 +16,7 @@ case $1 in
   help|h)
     echo "options: [backup|install|les|notes]"
     exit 0
-    ;;&
+    ;;
   backup|back|bup)
     bin/backup.bash $LOC "/media/q/Samsung_T5/backups" $USER
     exit 0
