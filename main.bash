@@ -29,6 +29,6 @@ case $1 in
     bin/notes.bash ${@:2}
     ;;
   *)
-    echo "Don't know what to do whith this..."
+    echo "Don't know what to do with this..."
     ;;
 esac
