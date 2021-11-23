@@ -34,6 +34,6 @@ case $1 in
     exit 0
     ;;
   *)
-    echo "Don't know what to do whith this..."
+    echo "Don't know what to do with this..."
     ;;
 esac
